@@ -51,7 +51,7 @@
         printf("<p class='lead'>Please hit the back button and select a Department to see the items available for purchase.</p>");
     }else{
     //variable containing database connection specific info
-    $link = mysqli_connect("localhost", "root", "g@ryH0st", "cpt283db");
+    $link = mysqli_connect("localhost", "root", "noneyourbiz", "cpt283db");
 
     //if there is an error, kill the connection and alert the error number and error to the visitor
     if(!$link) {
