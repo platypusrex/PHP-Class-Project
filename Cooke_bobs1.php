@@ -55,7 +55,7 @@
                             //Purpose: PHP script that query the database and grabs all distinct departments from the products table
 
                             //store database connection data in variable
-                            $link = mysqli_connect("localhost", "root", "g@ryH0st", "cpt283db");
+                            $link = mysqli_connect("localhost", "root", "noneyourbiz", "cpt283db");
 
                             //handle errors and alert visitor of any connection errors to the database
                             if(!$link) {
