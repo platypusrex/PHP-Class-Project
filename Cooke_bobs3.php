@@ -55,7 +55,7 @@
                     <?php
 
                     //store the database connection info in a variable
-                    $link = mysqli_connect("localhost", "root", "g@ryH0st", "cpt283db");
+                    $link = mysqli_connect("localhost", "root", "noneyourbiz", "cpt283db");
 
                     //conditional to handle any errors when connecting to the database
                     if(!$link){
