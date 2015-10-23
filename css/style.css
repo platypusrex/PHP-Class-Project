@@ -1,0 +1,81 @@
+.title {
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 35px;
+    color: #ffffff;
+    background-color: #0088CC;
+}
+
+.landing h2{
+    margin: 0 0 20px 20px;
+
+}
+
+h1, h2, .lead {
+    font-family: "Verdana", sans-serif;
+}
+label, p, input, .btn {
+    font-family: "Lucida Grande", sans-serif;
+}
+.lead {
+    margin-left: 2em;
+}
+
+.departments, {
+    margin-bottom: 2.25em;
+    text-align: left;
+}
+
+.buttons {
+    text-align: center;
+    margin: 4em 0 3em 0;
+}
+
+.intro {
+    text-align: center;
+}
+
+p.intro {
+    margin-bottom: 2.5em;
+}
+.final-btn {
+    margin-bottom: 20px;
+}
+
+.form-horizontal .col-md-12 {
+    margin: 2% 0 0 8%;
+}
+
+.form-horizontal .col-md-4 {
+    margin-bottom: 10px;
+}
+
+.summary {
+    max-width: 300px;
+}
+.total {
+    margin: auto;
+    /*max-width: 300px;*/
+}
+.items {
+    margin-left: 40px;
+}
+.items hr {
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.final-form {
+    margin-top: 50px;
+    width: 50%;
+    margin: 0 auto;
+}
+label {
+    font-size: 14px;
+}
+.receipt {
+    display: table;
+    margin: 50px auto;
+    border: 1px solid #000;
+    border-radius: 4px;
+    padding: 12px;
+}
